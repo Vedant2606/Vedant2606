@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Vedant2606
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, SQL Server, Computer Vsion
+- 👋 Hi, I’m @Vedant_Pundir
+- 👀 Pursuing Master in IT Data Science Specialization.
+- 🌱 I love to work with data using python, using stats models, LLM.
 - 📫 Reach me via - vedantpundir2606@gmail.com
 
 <!---
