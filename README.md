@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vedant_Pundir
-- 👀 Pursuing Master in IT Data Science Specialization.
+- 👀 Completed Master in IT Data Science Specialization.
 - 🌱 I love to work with data using python, using stats models, LLM.
 - 📫 Reach me via - vedantpundir2606@gmail.com
 
